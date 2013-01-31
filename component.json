@@ -5,6 +5,6 @@
   "author"        : "Rotunda Software",
   "repository"    : {"type": "git", "url": "git://github.com/rotundasoftware/underscore-template-helpers.git"},
   "version"       : "1.0.0",
-  "main"          : "underscore.template-helpers.js"
+  "main"          : "underscore.template-helpers.js",
   "scripts"       : ["underscore.template-helpers.js"]
 }
