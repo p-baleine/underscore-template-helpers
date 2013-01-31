@@ -1,0 +1,10 @@
+{
+  "name"          : "underscore-template-helpers",
+  "description"   : "A mixin that allows you to define global helpers for the underscore.js template function.",
+  "keywords"      : ["underscore", "template", "helper"],
+  "author"        : "Rotunda Software",
+  "repository"    : {"type": "git", "url": "git://github.com/rotundasoftware/underscore-template-helpers.git"},
+  "version"       : "1.0.0",
+  "main"          : "underscore.template-helpers.js"
+  "scripts"       : ["underscore.template-helpers.js"]
+}
